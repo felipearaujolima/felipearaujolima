@@ -1,5 +1,5 @@
-## 🧑‍  About me:
-📖 Master's student in Computer Science at UNICAMP  
+# 🧑‍  About me:
+## 📖 Master's student in Computer Science at UNICAMP  
 🏋️‍♂️ *Currently exploring advanced deep learning algorithms, convolutional neural networks, and image processing techniques.*
 
 📘 Graduated in Statistics from UFPR  
@@ -7,13 +7,13 @@
 
 
 
-## 🔧 Favorite Programming Languages:
+# 🔧 Favorite Programming Languages:
 <div style="display: inline_block"><br/>
     <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
     <img align="center" alt="Python"src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
-## 📊 My github stats:
+# 📊 My github stats:
 
 ![My statistics](https://github-readme-stats.vercel.app/api?username=felipearaujolima&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipearaujolima&layout=compact&show_icons=true&theme=dark)
 
