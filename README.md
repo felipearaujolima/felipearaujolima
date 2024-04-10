@@ -1,5 +1,7 @@
 ## 🧑‍  About me:
-📖 Doing a master's degree in Computer Science at UNICAMP  
+📖 Master's student in Computer Science at UNICAMP 
+🏋️‍♂️ *Currently exploring advanced deep learning algorithms, convolutional neural networks, and image processing techniques.*
+
 📘 Graduated in Statistics from UFPR  
 👨‍💻 Data Scientist at Itau Unibanco
 
