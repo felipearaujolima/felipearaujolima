@@ -1,5 +1,4 @@
 # Hello there 
-
 ## 👀 About me:
 📖 Doing a master's degree in Computer Science at UNICAMP  
 📘 Graduated in Statistics from UFPR  
