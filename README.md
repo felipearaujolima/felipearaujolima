@@ -1,8 +1,6 @@
-## 👀 About me:
+## 🧑‍  About me:
 📖 Doing a master's degree in Computer Science at UNICAMP  
 📘 Graduated in Statistics from UFPR  
-
-🧑‍ 24 years old  
 👨‍💻 Data Scientist at Itau Unibanco
 
 
