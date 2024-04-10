@@ -1,15 +1,15 @@
-### Hi there, I am Felipe Araujo de Lima 👋
+### Hello there 
 
-## 👀 Highlights:
-📚 Graduated in statistics from UFPR  
-📚 Doing a master's degree in computer science at unicamp  
+## 👀 About me:
+📖 Doing a master's degree in Computer Science at UNICAMP  
+📘 Graduated in Statistics from UFPR  
 
 🧑‍ 24 years old  
 👨‍💻 Data Scientist at Itau Unibanco
 
 
 
-## 🖥️ Programming Languages:
+## 🔧 Programming Languages:
 <div style="display: inline_block"><br/>
     <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
     <img align="center" alt="python"src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
