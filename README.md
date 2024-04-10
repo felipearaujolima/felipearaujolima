@@ -1,5 +1,5 @@
 ## 🧑‍  About me:
-📖 Master's student in Computer Science at UNICAMP 
+📖 Master's student in Computer Science at UNICAMP  
 🏋️‍♂️ *Currently exploring advanced deep learning algorithms, convolutional neural networks, and image processing techniques.*
 
 📘 Graduated in Statistics from UFPR  
