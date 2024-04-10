@@ -9,15 +9,15 @@
 
 
 
-## 🖥️ Tecnologias:
+## 🖥️ Programming Languages:
 <div style="display: inline_block"><br/>
-    <img align="center" alt="c"src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+    <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
     <img align="center" alt="python"src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
-## 📊 Minhas estatísticas do GitHub:
+## 📊 My github statistics:
 
-![My stats](https://github-readme-stats.vercel.app/api?username=felipearaujolima&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipearaujolima&layout=compact&show_icons=true&theme=dark)
+![My statistics](https://github-readme-stats.vercel.app/api?username=felipearaujolima&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipearaujolima&layout=compact&show_icons=true&theme=dark)
 
 <!--
 **felipearaujolima/felipearaujolima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
